@@ -12,6 +12,9 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 
 [Learning Markdown](https://kristensimmons.github.io/reading-notes/learning-markdown)
 
+[Text Editor](https://kristensimmons.github.io/reading-notes/text-editor)
+
+
 
 
 
