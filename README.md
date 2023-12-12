@@ -11,13 +11,35 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 #### Code 102
 
 
-- [Growth Mindset](https://kristensimmons.github.io/reading-notes/code-102/growthmindset2.md)
-- [Learning Markdown](https://kristensimmons.github.io/reading-notes/learning-markdown)</li>
-- [Text Editor](https://kristensimmons.github.io/reading-notes/text-editor)
-
+- [Growth Mindset](code-102/growth-mindset2.md)
+- [Learning Markdown](code-102/learning-markdown2.md)
+- [Text Editor](code-102/text-editor.md)
+- [Todays notes](code-102/class-three.md)
+- [Day 4 Notes](code-102/class-four.md)
+- [Day 5 Notes](code-102/class-five.md)
+- [Day 6 Notes](code-102/class-six.md)
+- [Day 7 Notes](code-102/class-seven.md)
 
 
 #### Code 201
+- [Day 1]
+- [Day 2]
+- [Day 3]
+- [Day 4]
+- [Day 5]
+- [Day 6]
+- [Day 7]
+- [Day 8]
+- [Day 9]
+- [Day 10]
+- [Day 11]
+- [Day 12]
+- [Day 13]
+- [Day 14]
+- [Day 15]
+
+
+
 
 
 
