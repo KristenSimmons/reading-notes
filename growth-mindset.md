@@ -1,6 +1,7 @@
 # Growth Mindset 
 
-![Growth Mindset](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flickr.com%2Fphotos%2Fpaulapiccard%2F43058632290&psig=AOvVaw2XyD5p9FVpTd_LyzIrOngi&ust=1702157376809000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMC2isTkgIMDFQAAAAAdAAAAABAD)
+![Growth Mindset](C:\Users\Krist\Downloads\43058632290_623a3818a0_o.jpg)
+
 
 ### What is a growth mindset?
 Your mindset is your perspective, it is the lens through which you will view life. Having a growth mindset means you are interested in the world around you and continuing to grow your experiences and knowledge. 
