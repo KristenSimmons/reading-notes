@@ -11,7 +11,7 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 #### Code 102
 
 
-- [Growth Mindset](https://kristensimmons.github.io/reading-notes/growth-mindset)
+- [Growth Mindset](https://kristensimmons.github.io/reading-notes/code-102/growthmindset2.md)
 - [Learning Markdown](https://kristensimmons.github.io/reading-notes/learning-markdown)</li>
 - [Text Editor](https://kristensimmons.github.io/reading-notes/text-editor)
 
