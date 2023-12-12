@@ -8,7 +8,8 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 
 #### I am excited to start this journey! Here is what I am learning:
 
-[Code 102](need the website)
+[Code 102](need the website) <br>
+
 [Code 201](need the website)
 
 [Growth Mindset](https://kristensimmons.github.io/reading-notes/growth-mindset)
