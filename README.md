@@ -19,24 +19,26 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 - [Day 5 Notes](code-102/class-five.md)
 - [Day 6 Notes](code-102/class-six.md)
 - [Day 7 Notes](code-102/class-seven.md)
+- [Day 8 Notes](code-102/class-eight.md)
+
 
 
 #### Code 201
-- [Day 1]
-- [Day 2]
-- [Day 3]
-- [Day 4]
-- [Day 5]
-- [Day 6]
-- [Day 7]
-- [Day 8]
-- [Day 9]
-- [Day 10]
-- [Day 11]
-- [Day 12]
-- [Day 13]
-- [Day 14]
-- [Day 15]
+- [Day 1](code-201/class-one.md)
+- [Day 2](code-201/class-two.md)
+- [Day 3](code-201/class-three.md)
+- [Day 4](code-201/class-four.md)
+- [Day 5](code-201/class-five.md)
+- [Day 6](code-201/class-six.md)
+- [Day 7](code-201/class-seven.md)
+- [Day 8](code-201/class-eight.md)
+- [Day 9](code-201/class-nine.md)
+- [Day 10](code-201/class-ten.md)
+- [Day 11](code-201/class-eleven.md)
+- [Day 12](code-201/class-twelve.md)
+- [Day 13](code-201/Class-thirteen.md)
+- [Day 14](code-201/class-fourteen.md)
+- [Day 15](code-201/class-fifteen.md)
 
 
 
