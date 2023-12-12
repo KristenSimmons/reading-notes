@@ -13,7 +13,7 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 
 - [Growth Mindset](code-102/growth-mindset2.md)
 - [Learning Markdown](code-102/learning-markdown2.md)
-- [Text Editor](code-102/text-editor.md)
+- [Text Editor](code-102/text-editor2.md)
 - [Todays notes](code-102/class-three.md)
 - [Day 4 Notes](code-102/class-four.md)
 - [Day 5 Notes](code-102/class-five.md)
