@@ -23,3 +23,10 @@ In JavaScript, the = sign is considered an assignment operator. It assigns a cer
 ## What is information received from the user called?
 
 The information gained from a user is called a prompt. We can store it using variable functions. 
+
+## Additional Resources
+
+[JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+[JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+
