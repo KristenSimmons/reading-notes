@@ -17,7 +17,7 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 - [Revisions & the Cloud](code-102/revisions-and-cloud.md)
 - [HTML](code-102/HTML.md)
 - [Learning CSS](code-102/CSS.md)
-- [Day 6 Notes](code-102/class-six.md)
+- [JavaScript](code-102/JavaScript.md)
 - [Day 7 Notes](code-102/class-seven.md)
 - [Day 8 Notes](code-102/class-eight.md)
 
