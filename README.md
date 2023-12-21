@@ -19,7 +19,7 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 - [Learning CSS](code-102/CSS.md)
 - [JavaScript](code-102/JavaScript.md)
 - [More JavaScript!](code-102/JavaScript-Continued.md)
-- [Day 8 Notes](code-102/class-eight.md)
+- [Loops & Operators (JavaScript)](code-102/operations-loops.md)
 
 
 
