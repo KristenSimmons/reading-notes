@@ -24,8 +24,8 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 
 
 #### Code 201
-- [Day 1](code-201/day-1.md)
-- [Day 2](code-201/class-two.md)
+- [Day 1: HTML Basics](code-201/day-1.md)
+- [Day 2: HTML, JS, CSS](code-201/day-2.md)
 - [Day 3](code-201/class-three.md)
 - [Day 4](code-201/class-four.md)
 - [Day 5](code-201/class-five.md)
