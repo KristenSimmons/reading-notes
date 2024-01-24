@@ -48,7 +48,9 @@ An assignment operator assigns a value to its left operand based on the value of
  // evaluate this <br>
  (a + c) + b;
 
+ The final expression will be "false". It essentially is saying (10 + false) + 'dog'. This is not a valid expression, so the result would come back "false"
+
  ## 5) Describe a real world example of when a conditional statement should be used in a JavaScript program.
  Developers use conditional statements often when sites or software interact with users. For example, I have an app that allows me to track my calories and macros for eating. To find my calorie goal for the day, the app asks a series of questions, including my age and activity level. Depending on the answers provided by myself, or other users, the app will recommend a number that works best under those set of answers. Someonme with different answers than mine should get back a different result. 
 ## 6) Give an example of when a Loop is useful in JavaScript.
-Loops are all about doing the same thing over and over again. Often, the code will be slightly different each time round the loop, or the same code will run but with different variables.
+Loops are all about doing the same thing over and over again. Often, the code will be slightly different each time round the loop, or the same code will run but with different variables. A loop coud be useful for wanting to find a specific item within an array that holds 100 values. For example, you could use a loop function to search for a specific name within a phone book. 
