@@ -48,7 +48,7 @@ An assignment operator assigns a value to its left operand based on the value of
  // evaluate this <br>
  (a + c) + b;
 
- The final expression will be "false". It essentially is saying (10 + false) + 'dog'. This is not a valid expression, so the result would come back "false"
+ The final expression will be "10dog". It essentially is saying (10 + false) + 'dog'. The false variable (c) does not change anything, so you essentially come up with 10 + dog, or "10dog"
 
  ## 5) Describe a real world example of when a conditional statement should be used in a JavaScript program.
  Developers use conditional statements often when sites or software interact with users. For example, I have an app that allows me to track my calories and macros for eating. To find my calorie goal for the day, the app asks a series of questions, including my age and activity level. Depending on the answers provided by myself, or other users, the app will recommend a number that works best under those set of answers. Someonme with different answers than mine should get back a different result. 
