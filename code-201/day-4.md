@@ -51,3 +51,7 @@ A parameter is the set guidlines for that particular function, set during the de
 - [CSS Flow](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Normal_Flow) <br>
 - [CSS Positioning](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning) <br>
 - [JavaScript Functions](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
+
+## Two Benefits to pair coding:
+1. I am a firm believer in the old saying "2 heads are better than 1." Working with a partner, or a team, allows for great input of knowledge, experience and insight into the project. 
+2. Practicing communication and professional skills through team work is always good practice for "the real world."
