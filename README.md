@@ -30,7 +30,7 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 - [Day 4: Hyperlinks, Positiong & Flow, Functions](code-201/day-4.md)
 - [Day 5: HTML Images & CSS Styling](code-201/day-5.md)
 - [Day 6: Objects & The DOM](code-201/day-6.md)
-- [Day 7](code-201/day-7.md)
+- [Day 7: Domain Modeling, Tables & Constructors](code-201/day-7.md)
 - [Day 8](code-201/class-eight.md)
 - [Day 9](code-201/class-nine.md)
 - [Day 10](code-201/class-ten.md)
