@@ -1,3 +1,0 @@
-### Notes for today
-
-Hi!!
