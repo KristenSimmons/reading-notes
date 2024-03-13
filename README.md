@@ -33,7 +33,7 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 - [Day 7: Domain Modeling, Tables & Constructors](code-201/day-7.md)
 - [Day 8: CSS Flexbox & Layout](code-201/day-8.md)
 - [Day 9: Forms & JS Events](code-201/day-9.md)
-- [Day 10](code-201/class-ten.md)
+- [Day 10](code-201/day-10.md)
 - [Day 11](code-201/class-eleven.md)
 - [Day 12](code-201/class-twelve.md)
 - [Day 13](code-201/Class-thirteen.md)
