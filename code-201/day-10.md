@@ -1,4 +1,4 @@
-# Debugging & Troubleshooting JavaScript 
+# Debugging & Troubleshooting JavaScript
 
 ## 1. Name some key differences between a Syntax Error and a Logic Error.
 Syntax errors: These are spelling errors in your code that actually cause the program not to run at all, or stop working part way through — you will usually be provided with some error messages too. These are usually okay to fix, as long as you are familiar with the right tools and know what the error messages mean! <br>
