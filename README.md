@@ -35,7 +35,7 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 - [Day 9: Forms & JS Events](code-201/day-9.md)
 - [Day 10: Debugging & Troubleshooting JavaScript](code-201/day-10.md)
 - [Day 11: Audio, Video, Images & The Grid](code-201/day-11.md)
-- [Day 12](code-201/class-twelve.md)
+- [Day 12: Canvas & Chart.js](code-201/day-12.md)
 - [Day 13](code-201/Class-thirteen.md)
 - [Day 14](code-201/class-fourteen.md)
 - [Day 15](code-201/class-fifteen.md)
