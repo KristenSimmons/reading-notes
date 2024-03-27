@@ -37,7 +37,7 @@ Welcome to my page! My name is Kristen Simmons. I am a single mom with 4 kids fr
 - [Day 11: Audio, Video, Images & The Grid](code-201/day-11.md)
 - [Day 12: Canvas & Chart.js](code-201/day-12.md)
 - [Day 13: Local Storage & How to Use it](code-201/day-13.md)
-- [Day 14](code-201/class-fourteen.md)
+- [Day 14:Psychological Safety](code-201/day-14.md)
 - [Day 15](code-201/class-fifteen.md)
 
 
